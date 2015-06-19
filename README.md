@@ -6,7 +6,8 @@ Learn more at [VorlonJS](http://vorlonjs.com).
 
 
 ## Deploy on Azure
-[Here](https://github.com/MicrosoftDX/Vorlonjs/tree/master/Server).
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 ## Easy setup
 
