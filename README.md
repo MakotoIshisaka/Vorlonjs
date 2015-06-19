@@ -5,6 +5,9 @@ A new, open source, extensible, platform-agnostic tool for remotely debugging an
 Learn more at [VorlonJS](http://vorlonjs.com).
 
 
+## Deploy on Azure
+[Here](https://github.com/MicrosoftDX/Vorlonjs/tree/master/Server).
+
 ## Easy setup
 
 Install and run the Vorlon.JS server from npm:
